@@ -1,0 +1,27 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "Please note that the project is no longer maintained.  If anyone wants to expand it further, simply clone it to your own local , make changes and push to your own github account.",
+  "homepage": "https://github.com/itachi9604/healthcare-chatbot#readme",
+  "bugs": {
+    "url": "https://github.com/itachi9604/healthcare-chatbot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itachi9604/healthcare-chatbot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@serialport/parser-readline": "^13.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.1",
+    "serialport": "^13.0.0"
+  }
+}
