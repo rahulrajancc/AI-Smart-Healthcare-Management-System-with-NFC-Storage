@@ -292,9 +292,8 @@ Upload the Arduino sketch using the **Arduino IDE**.
 Department of Computer Science & Engineering
 
 - Rahul Rajan
-- Shoan Kurien Johnson
-- Sohil Suman
-- Shijin Varghese
+- Shone Varughese Mathew
+- Santo Joseph Mathew
 
 ---
 
