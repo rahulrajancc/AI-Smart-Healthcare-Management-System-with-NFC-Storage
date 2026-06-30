@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Paracetamol",
+    "description": "Pain reliever and fever reducer. Commonly used for headaches, body aches, and fever."
+  },
+  {
+    "id": 2,
+    "name": "Ibuprofen",
+    "description": "Nonsteroidal anti-inflammatory drug (NSAID) for pain, inflammation, and fever."
+  },
+  {
+    "id": 3,
+    "name": "Amoxicillin",
+    "description": "Antibiotic used to treat bacterial infections such as ear infections and strep throat."
+  },
+  {
+    "id": 4,
+    "name": "Cetirizine",
+    "description": "Antihistamine for allergy relief (sneezing, runny nose, itchy eyes)."
+  },
+  {
+    "id": 5,
+    "name": "Omeprazole",
+    "description": "Proton pump inhibitor used to reduce stomach acid and treat GERD."
+  },
+  {
+    "id": 6,
+    "name": "Metformin",
+    "description": "Oral diabetes medicine that helps control blood sugar levels."
+  },
+  {
+    "id": 7,
+    "name": "Atorvastatin",
+    "description": "Used to lower cholesterol and reduce the risk of heart disease."
+  },
+  {
+    "id": 8,
+    "name": "Salbutamol",
+    "description": "Bronchodilator used for asthma relief and to open airways."
+  }
+]
