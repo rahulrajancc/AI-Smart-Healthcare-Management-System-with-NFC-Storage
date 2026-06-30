@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run chatbot\" \"npm run doctor\" \"npm run newapp\"",
+    "backend": "cd backend/data && node server.js",
+    "chatbot": "cd backend/data && python3 chat_bot.py",
+    "doctor": "cd frontend/doctor && npm start",
+    "newapp": "cd frontend/newApp && npm start"
+  }
+}
